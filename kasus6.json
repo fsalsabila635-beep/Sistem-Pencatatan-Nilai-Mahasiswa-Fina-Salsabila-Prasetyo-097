@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "fina salsabila",
+        "nim": "097",
+        "mata_kuliah": "dasar dasar pemograman",
+        "nilai": 100.0
+    },
+    {
+        "nama": "afrila zahra",
+        "nim": "079",
+        "mata_kuliah": "dasar dasar pemograman",
+        "nilai": 80.0
+    },
+    {
+        "nama": "mila karmila",
+        "nim": "029",
+        "mata_kuliah": "dasar dasar pemograman",
+        "nilai": 75.0
+    },
+    {
+        "nama": "praditya",
+        "nim": "106",
+        "mata_kuliah": "dasar dasar pemograman",
+        "nilai": 77.0
+    },
+    {
+        "nama": "adit",
+        "nim": "125",
+        "mata_kuliah": "dasar dasar pemograman",
+        "nilai": 89
+    }
+]
