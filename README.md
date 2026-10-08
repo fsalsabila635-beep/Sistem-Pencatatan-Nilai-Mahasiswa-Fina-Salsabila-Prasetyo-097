@@ -47,3 +47,5 @@ Program menggunakan while True agar menu dapat digunakan berulang kali sampai pe
 
 3. tambah data
 <img width="477" height="360" alt="image" src="https://github.com/user-attachments/assets/dbdc1ecf-fd35-47d9-9813-5e6795d31f3b" />
+
+ffdhgudfjhsdjfsjfizshfjh
